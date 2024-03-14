@@ -8,7 +8,7 @@
         "start": "set NODE_ENV=dev&&webpack-dev-server --config webpack.develop.config.js --devtool eval --progress --colors --hot --content-base app",
         "build": "set NODE_ENV=production&&webpack --config webpack.publish.config.js --progress --colors"
     },
-    "author": "hushiking",
+    "author": "Katta Dileep",
     "license": "ISC",
     "devDependencies": {
         "babel-core": "^6.22.1",
